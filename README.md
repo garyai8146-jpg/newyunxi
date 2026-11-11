@@ -1,5 +1,8 @@
 # 雲熙驗單打包助手｜Woodworking Order Packing Assistant
 
+**[面試作品總覽｜GitHub Portfolio](https://github.com/garyai8146-jpg/Yihop_LineBOT/blob/main/PORTFOLIO.md)**
+
+
 > 為木工板材工廠的驗單與分包流程設計的 Windows 桌面工具，將掃碼、板件重量計算、分包與作業提示整合在一起。
 
 ## 背景與要解決的問題
