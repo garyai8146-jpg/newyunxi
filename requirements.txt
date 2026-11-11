@@ -1,0 +1,2 @@
+# Optional Windows voice prompts in the desktop application
+pyttsx3>=2.90
